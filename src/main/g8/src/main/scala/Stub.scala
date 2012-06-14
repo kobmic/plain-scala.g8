@@ -1,3 +1,9 @@
+object Stub {
+  def main(args: Array[String]) {
+   // do something
+  }
+}
+
 class Stub {
-  // got any helpful boilerplate for your users?
+  // do something
 }
