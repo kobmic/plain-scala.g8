@@ -8,7 +8,7 @@ class StubSpec extends Spec with ShouldMatchers {
 
   describe("you description here") {
     it("should do something") {
-      //greeter.sayHello should equal("God morning! Have fun with Scala.")
+      "Hello world" should equal("Hello world")
     }
   }
 }
