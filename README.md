@@ -12,17 +12,14 @@
 
 
 ### usage:
-Follow g8 [installation instructions](http://github.com/n8han/giter8#readme)
-go to your favourite shell and enter
-<pre>
+Follow g8 [installation instructions](http://github.com/n8han/giter8#readme)  
+go to your favourite shell and enter  
     g8 kobmic/plain-scala
     cd [app-name]
     sbt compile
-</pre>
 
    
 generate project files for your favourite IDE
-<pre> 
     sbt eclipse
     sbt gen-idea    
-</pre>
+
