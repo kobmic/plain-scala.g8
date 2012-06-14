@@ -6,7 +6,7 @@
 * specs2 1.11
 * junit 4.10
 
-### predefined sbt plugins:
+### predefined sbt plugins (require sbt 0.11.3):
 * sbteclipse 2.1.0-RC1
 * sbt-idea 1.0
 
