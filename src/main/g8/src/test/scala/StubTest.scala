@@ -4,7 +4,7 @@ import org.scalatest.junit.JUnitRunner
 import org.junit.runner.RunWith
 
 @RunWith(classOf[JUnitRunner])
-class StubSpec extends Spec with ShouldMatchers {
+class StubTest extends Spec with ShouldMatchers {
 
   describe("you description here") {
     it("should do something") {
