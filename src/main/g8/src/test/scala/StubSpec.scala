@@ -1,4 +1,4 @@
-package "$organization$"
+package $organization$
 
 import org.specs2.mutable._
 
