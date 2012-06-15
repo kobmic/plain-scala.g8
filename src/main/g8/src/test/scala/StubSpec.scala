@@ -1,3 +1,5 @@
+package "$organization$"
+
 import org.specs2.mutable._
 
 class StubSpec extends Specification {
