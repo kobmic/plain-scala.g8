@@ -1,12 +1,12 @@
 ## [giter8](http://github.com/n8han/giter8) template for plain Scala sbt project
 
 ### uses
-* Scala 2.11.2
-* Scalatest 2.2.1
-* specs2 2.4
+* Scala 2.11.7
+* Scalatest 2.2.4
+* specs2 3.6.4
 
 ### predefined sbt plugins (require sbt 0.13.x):
-* sbteclipse 2.5.0
+* sbteclipse 4.0.0
 * sbt-idea 1.6.0
 
 
