@@ -11,8 +11,11 @@
 
 
 ### usage:
-Follow g8 [installation instructions](http://github.com/n8han/giter8#readme)  
-go to your favourite shell and enter  
+Follow g8 [installation instructions](http://github.com/n8han/giter8#readme) or when using homebrew:
+
+    brew install giter8
+
+Go to your favourite shell and enter  
 
     g8 kobmic/plain-scala
     cd [app-name]
